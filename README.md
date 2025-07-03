@@ -1,15 +1,20 @@
 # 👋 Привет!
-- ⚙️ Ждем вас в моем [Telegram](https://t.me/xselidcore)
+
+- ⚙️ Жду вас в моем [Telegram](https://t.me/xselidcore)
 
 ---
 
-## 🛠️ Мой стек
+## 🧰 Мой стек
 
-- 🐍 Python
-- 🌐 HTML, CSS, JS
-- 🐘 PostgreSQL, SQLite
-- ☁️ Docker
-- 🖥️ Windows / Linux (Arch, Ubuntu)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?logo=windows&logoColor=white)
 
 ---
 
@@ -27,6 +32,12 @@
 
 ---
 
-## 📬 Контакты
+## 🐍 Змейка коммитов
 
-- Telegram: [@xselidcore](https://t.me/xselidcore)
+![snake gif](https://github.com/xselid/xselid/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xselidcore)
