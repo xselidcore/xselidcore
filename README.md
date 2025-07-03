@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/69fa035b-0011-4399-b4f2-ead654d672a4)<h1 align="center">👋 Привет!</h1>
+<h1 align="center">👋 Привет!</h1>
 
 <p align="center">
   ⚙️ Жду вас в моем <a href="https://t.me/xselidcore">Telegram</a>
