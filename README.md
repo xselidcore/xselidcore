@@ -29,14 +29,6 @@
 
 ---
 
-## 🔥 Активность
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=xselid&theme=radical&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
-
-[![xselid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xselid&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📬 Контакты
 
 - Telegram: [@xselidcore](https://t.me/xselidcore)
