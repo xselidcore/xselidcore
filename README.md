@@ -1,8 +1,8 @@
 <h1 align="center">👋 Привет!</h1>
 
-<p align="center">
-  ⚙️ Жду вас в моем <a href="https://t.me/xselidcore">Telegram</a>
-</p>
+<h1 align="center">
+  ⚙️ Жду вас в моем <a href="https://t.me/xselidcore" color="#FFF">Telegram</a>
+</h1>
 
 ---
 
