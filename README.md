@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xselidcore/xselidcore/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/xselidcore/xselidcore/output/github-contribution-grid-snake-dark.svg" alt="dark snake animation" />
 </p>
 
 ---
