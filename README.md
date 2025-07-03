@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет!</h1>
+![image](https://github.com/user-attachments/assets/69fa035b-0011-4399-b4f2-ead654d672a4)<h1 align="center">👋 Привет!</h1>
 
 <p align="center">
   ⚙️ Жду вас в моем <a href="https://t.me/xselidcore">Telegram</a>
@@ -43,6 +43,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xselid&layout=compact&theme=radical" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xselidcore/xselidcore/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
