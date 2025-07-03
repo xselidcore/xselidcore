@@ -1,6 +1,6 @@
 
-- # Ждем вам в [Telegram](https://t.me/xselidcore)
-- 
+- # Ждем вас в моем [Telegram](https://t.me/xselidcore)
+  
 ## 🛠️ Мой стек
 
 - 🐍 Python 
