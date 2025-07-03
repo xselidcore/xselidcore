@@ -5,7 +5,7 @@
 
 ## 🛠️ Мой стек
 
-- 🐍 Python (aiogram, Flask)
+- 🐍 Python
 - 🌐 HTML, CSS, JS
 - 🐘 PostgreSQL, SQLite
 - ☁️ Docker
