@@ -6,7 +6,7 @@
 
 ## 🧰 Мой стек
 
-- ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+- ![Python](https://camo.githubusercontent.com/1594bb61e85b22739a2e8fa02ea68154f8969efc2f280a47f2602f99d5f0fc0e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079)
 
 - ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
