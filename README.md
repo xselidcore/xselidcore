@@ -16,8 +16,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xselid&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Статистика](https://github-readme-stats.vercel.app/api?username=xselid&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📬 Контакты
 
 - Telegram: [xselid](https://t.me/xselidcore)
