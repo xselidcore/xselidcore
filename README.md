@@ -1,6 +1,8 @@
-# Привет!
+<h1 align="center">👋 Привет!</h1>
 
-- ⚙️ Жду вас в моем [Telegram](https://t.me/xselidcore)
+<p align="center">
+  ⚙️ Жду вас в моем <a href="https://t.me/xselidcore">Telegram</a>
+</p>
 
 ---
 
@@ -17,23 +19,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
-
 ---
 
 ## 🏆 Трофеи
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=xselid&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xselid&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
-## 📊 Статистика 
+## 📊 Статистика
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xselid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=xselid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xselid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xselid&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xselidcore)
+<p align="center">
+  <a href="https://t.me/xselidcore">
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+</p>
