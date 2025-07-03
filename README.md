@@ -1,4 +1,4 @@
-# 👋 Привет!
+# Привет!
 
 - ⚙️ Жду вас в моем [Telegram](https://t.me/xselidcore)
 
@@ -29,12 +29,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=xselid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xselid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🐍 Змейка коммитов
-
-![snake gif](https://github.com/xselid/xselid/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
