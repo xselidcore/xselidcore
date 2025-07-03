@@ -15,5 +15,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xselid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xselid&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![snake gif](https://github.com/xselid/xselid/blob/output/github-contribution-grid-snake.svg)
 
