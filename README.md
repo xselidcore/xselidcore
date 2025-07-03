@@ -1,7 +1,7 @@
 <h1 align="center">👋 Привет!</h1>
 
 <h1 align="center">
-  ⚙️ Жду вас в моем <a href="https://t.me/xselidcore" color="#FFF">Telegram</a>
+  ⚙️ Присоеденяйся к нам в <a href="https://t.me/xselidcore" color="#FFF">Telegram</a>
 </h1>
 
 ---
