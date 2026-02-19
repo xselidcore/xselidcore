@@ -1,9 +1,4 @@
-<h1 align="center">👋 Привет!</h1>
 
-<h1 align="center">
-  ⚙️ Присоеденяйся к нам в <a href="https://t.me/xselidcore" color="#FFF">Telegram</a>
-</h1>
----
 
 ## 📊 Статистика
 
