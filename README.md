@@ -53,7 +53,7 @@ Flask · WYSIWYG · MySQL
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/xselid/xselid/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/xselidcore/xselidcore/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
