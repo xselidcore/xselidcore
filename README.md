@@ -1,14 +1,13 @@
 <div align="center">
 
-# xselid
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Python+%26+Web+Developer;Telegram+Bot+Automation;Flask+%7C+aiogram+%7C+MySQL)](https://git.io/typing-svg)
 
-**Python & Web Developer · Telegram Bot Automation**
-
-Разрабатываю веб-приложения и Telegram-ботов под ключ.
+**Разрабатываю веб-приложения и Telegram-ботов под ключ.**
 Работаю с Flask, aiogram, MySQL — от идеи до деплоя на VDS.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@xselidru-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xselidru)
 [![Website](https://img.shields.io/badge/Portfolio-xselid.ru-black?style=flat-square&logo=safari&logoColor=white)](https://xselid.ru)
+![Visitors](https://komarev.com/ghpvc/?username=xselidcore&color=58a6ff&style=flat-square&label=views)
 
 </div>
 
@@ -37,17 +36,23 @@
 
 ## Проекты
 
-### [Advant Bot](https://github.com/xselid/Advant_Logger_Bot)
-Telegram-бот на Telegram Business API — логирует удалённые и отредактированные сообщения.
-Aiogram 3.5 · SQLAlchemy · Fernet-шифрование · i18n (RU/EN/UA) · systemd
+[![Advant Bot](https://github-readme-stats.vercel.app/api/pin/?username=xselid&repo=Advant_Logger_Bot&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/xselid/Advant_Logger_Bot)
+[![WinsX](https://github-readme-stats.vercel.app/api/pin/?username=xselidcore&repo=WinsX&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/xselidcore/WinsX)
 
-### [WinsX](https://github.com/xselidcore/WinsX)
-Консольный KMS-активатор на Python (slmgr + PyInstaller). 21 редакция Win10/11, 
-модульная архитектура, автопроверка прав администратора и статуса лицензии.
+**[xselid.ru](https://xselid.ru)** — фриланс-портфолио с кейсами, реферальными ссылками и админ-панелью.
+`Flask` `WYSIWYG` `MySQL`
 
-### [xselid.ru](https://xselid.ru)
-Фриланс-портфолио с кейсами проектов, реферальными ссылками и админ-панелью.
-Flask · WYSIWYG · MySQL
+---
+
+## Статистика
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xselidcore&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/xselidcore)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xselidcore&theme=tokyo-night&hide_border=true)](https://github.com/xselidcore)
+
+</div>
 
 ---
 
