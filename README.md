@@ -51,18 +51,14 @@ Flask · WYSIWYG · MySQL
 
 ---
 
-## Статистика
-
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xselid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/xselid)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xselid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/xselid)
+![snake](https://raw.githubusercontent.com/xselid/xselid/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to freelance · <a href="https://t.me/xselidcore">@xselidcore</a></sub>
+<sub>Open to freelance · <a href="https://t.me/xselidru">@xselidru</a></sub>
 </div>
