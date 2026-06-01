@@ -36,12 +36,31 @@
 
 ## Проекты
 
-[![Advant Bot](https://github-readme-stats.vercel.app/api/pin/?username=xselid&repo=Advant_Logger_Bot&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/xselid/Advant_Logger_Bot)
-[![WinsX](https://github-readme-stats.vercel.app/api/pin/?username=xselidcore&repo=WinsX&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/xselidcore/WinsX)
+### [Advant Bot](https://github.com/xselid/Advant_Logger_Bot)
+> Telegram-бот на Business API — логирует удалённые и отредактированные сообщения
 
-**[xselid.ru](https://xselid.ru)** — фриланс-портфолио с кейсами, реферальными ссылками и админ-панелью.
-`Flask` `WYSIWYG` `MySQL`
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-RU%2FEN%2FUA-green?style=flat-square)
 
+---
+
+### [WinsX](https://github.com/xselidcore/WinsX)
+> Консольный KMS-активатор для Windows 10/11 — 21 редакция, без установки
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-exe-black?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+### [xselid.ru](https://xselid.ru)
+> Фриланс-портфолио с кейсами проектов, реферальными ссылками и админ-панелью
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ---
 
 ## Статистика
