@@ -7,7 +7,7 @@
 Разрабатываю веб-приложения и Telegram-ботов под ключ.
 Работаю с Flask, aiogram, MySQL — от идеи до деплоя на VDS.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@xselidcore-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xselidru)
+[![Telegram](https://img.shields.io/badge/Telegram-@xselidru-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xselidru)
 [![Website](https://img.shields.io/badge/Portfolio-xselid.ru-black?style=flat-square&logo=safari&logoColor=white)](https://xselid.ru)
 
 </div>
@@ -41,9 +41,9 @@
 Telegram-бот на Telegram Business API — логирует удалённые и отредактированные сообщения.
 Aiogram 3.5 · SQLAlchemy · Fernet-шифрование · i18n (RU/EN/UA) · systemd
 
-### [ApiXS](https://github.com/xselid/ApiXS-Project-Telegram)
-
 ### [WinsX](https://github.com/xselidcore/WinsX)
+Консольный KMS-активатор на Python (slmgr + PyInstaller). 21 редакция Win10/11, 
+модульная архитектура, автопроверка прав администратора и статуса лицензии.
 
 ### [xselid.ru](https://xselid.ru)
 Фриланс-портфолио с кейсами проектов, реферальными ссылками и админ-панелью.
